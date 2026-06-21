@@ -1,3 +1,9 @@
 [submodule "display-player-and-mob-health"]
 	path = display-player-and-mob-health
 	url = https://github.com/DouarMC/display-player-and-mob-health-addon.git
+[submodule "more-tnt"]
+	path = more-tnt
+	url = https://github.com/DouarMC/more-tnt-addon.git
+[submodule "team-manager"]
+	path = team-manager
+	url = https://github.com/DouarMC/team-manager-addon.git
